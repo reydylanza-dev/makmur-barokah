@@ -17,9 +17,9 @@ Node.js
 
 #################################################################################
 
-Untuk akses aplikasi	: folder /secure
-Untuk register admin 	: akses secure/administrator
-Untuk akses admin mode 	: akses secure/adminpanel
+- Untuk akses aplikasi	: folder /secure
+- Untuk register admin 	: akses secure/administrator
+- Untuk akses admin mode 	: akses secure/adminpanel
 
 
 Akses Admin
