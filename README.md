@@ -1,0 +1,50 @@
+1. Sebelum menjalankan pastikan sudah install
+XAMPP
+Node.js
+
+2. Buat nama database 'db_koperasi' dan 'makmur_barokah'
+
+3. Lalu import file sql sesuai nama databasenya.
+
+4. Aktifkan Apache dan MySQL pada XAMPP
+
+5. Pertama klik 'kanan' folder server-side, lalu "Open With Visual Studio Code". Buka terminal dan run "npm install"
+
+6. Run lagi "npm start" dan jangan tutup VScode nya selama aplikasi Makmur Barokah dijalankan.
+
+7. Silahkan buka localhost makmur-barokah dan pilih folder 'secure'
+
+
+#################################################################################
+
+Untuk akses aplikasi	: folder /secure
+Untuk register admin 	: akses secure/administrator
+Untuk akses admin mode 	: akses secure/adminpanel
+
+
+Akses Admin
+-------------------
+Bisa register sendiri
+
+atau
+
+Password admin : admin
+Password admin : 123456
+
+
+
+Akses Pelanggan
+-------------------
+Register akun sendiri
+
+
+
+PIN Hapus Transaksi by Admin
+-------------------
+1234567
+
+
+
+PIN masuk halaman registrasi admin
+-------------------
+12345
