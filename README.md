@@ -1,6 +1,6 @@
 1. Sebelum menjalankan pastikan sudah install
-XAMPP
-Node.js
+- XAMPP
+- Node.js
 
 2. Buat nama database 'db_koperasi' dan 'makmur_barokah'
 
