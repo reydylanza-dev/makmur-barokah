@@ -1,0 +1,118 @@
+
+.bg-website{
+	background-color: #e87918!important;
+}
+.bg-website-alt{
+	background-color: #fdab63!important;
+}
+.text-website{
+	color: #e87918!important;
+}
+.text-orange{
+	color: #e87918!important;
+}
+.active{
+	font-weight: bold;
+}
+.fa-1-5x{
+	font-size: 1.5em;
+}
+.garis{
+	width: 70%;
+	height: 2px;
+	background: #e87918;
+}
+.garis-full{
+	width: 100%;
+	height: 2px;
+	background: #e87918;
+}
+.border-gambar{
+	border: 3px solid #e87918;
+	padding: 4px;
+	border-radius: 100%;
+}
+.link-hover:hover{
+	color: #e87918!important;
+	text-decoration: none;
+}
+.row-p{
+	margin-left: -5px!important;
+	margin-right: -5px!important;
+}
+.col-p{
+	padding-right: 5px!important;
+	padding-left: 5px!important;
+}
+.b{
+	font-weight: bold!important;
+}
+.gambar-produk{
+	height: 200px!important;
+	background-size: cover!important;
+	background-position: center!important;
+}
+.hvnb:hover{
+	text-decoration: none;
+}
+ul.list-unstyled li a{
+	color: #ffffff!important;
+}
+ul.list-unstyled li a:hover{
+	color: #ffffff!important;
+	text-decoration: none;
+	margin-left: 4px;
+}
+.cp{
+	cursor: pointer;
+}
+.al{
+	text-align: left!important;
+}
+.msb:hover{
+	background-color: #fdab63!important;
+}
+.sidebar-brand{
+	text-align: left!important;
+}
+.aktif{
+	background-color: #fdab63!important;
+}
+
+.btn-orange {
+    background-color: orange;
+    color: white;
+    transition: background-color 0.3s ease; /* Transisi warna latar belakang saat berubah */
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .btn-orange:hover {
+    background-color: darkorange; /* Warna latar belakang saat dihover */
+  }
+  
+  .btn-orange::after {
+    content: "";
+    position: absolute;
+    background: rgba(255, 255, 255, 0.2); /* Warna overlay */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.3s ease; /* Transisi efek overlay */
+    z-index: -1;
+  }
+  
+  .btn-orange:hover::after {
+    transform: scale(1.2); /* Efek overlay saat dihover */
+  }
+  
+  .form-control.orange-border {
+    border-color: orange; /* Warna border */
+    transition: border-color 0.3s ease; /* Transisi warna border */
+  }
+  
+  .form-control.orange-border:focus {
+    border-color: darkorange; /* Warna border saat input dalam fokus */
+    box-shadow: 0 0 0 0.2rem rgba(255, 140, 0, 0.25); /* Efek shadow saat input dalam fokus */
+  }
